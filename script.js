@@ -43,11 +43,15 @@ document.querySelector("#login").addEventListener("click", function () {
      } 
  
  var Details ={
+  
   name: $('#nameInput').val(),
   email: $('#emailInput').val(),
   password: $('#passwordInput').val()
  }
   console.log(Details);
+  
+
+
  
    
 
