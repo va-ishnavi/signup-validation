@@ -1,4 +1,5 @@
 ## Welcome to the Signup Validation
+The signup validation process aims to verify user-provided information during registration to prevent unauthorized access and ensure data integrity. 
 
 ## Getting Started
 To get started with the Cryptocurrency Dashboard, follow these steps:
